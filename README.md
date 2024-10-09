@@ -1,6 +1,6 @@
 💡 Who I Am:
 
-👋🏻 Hi! I am Dilip Verma, and I grew up in Nagpur, Maharashtra, India.
+👋 Hi! I am Dilip Verma, and I grew up in Nagpur, Maharashtra, India.
 
 I am passionate about coding and enjoy turning ideas into reality with elegant and efficient software solutions. My focus is on creating seamless user experiences, well-structured architectures, and maintaining high code quality in everything I build.
 
